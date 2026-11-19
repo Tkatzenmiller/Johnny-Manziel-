@@ -1,0 +1,6 @@
+{
+  "name": "johnny-manziel-fact-file",
+  "private": true,
+  "description": "Johnny Manziel fact file with a fact-checked live search",
+  "engines": { "node": ">=18" }
+}
